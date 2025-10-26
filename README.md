@@ -31,4 +31,3 @@ OUTPUT:
 RESULT:
 ````
 Thus the assembly language program in 8051 to find the largest number from a given set of N numbers stored in memory is executed and displayed the largest in AL register.
-```
