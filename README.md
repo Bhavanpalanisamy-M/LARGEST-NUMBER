@@ -1,4 +1,7 @@
 SKILL ASSIGNMENT-1
+### **AIM:**
+
+To write and execute an Assembly Language Program (ALP) for the 8051 microcontroller to find the largest number from a given set of N numbers stored in memory, and to display the result in the Accumulator (A register).
 
 PROGRAM:
 Write an assembly language program in 8051 to find the largest number from a given set of N numbers stored in memory. Display the result in AL register.
